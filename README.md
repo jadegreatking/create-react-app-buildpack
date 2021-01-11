@@ -1,6 +1,11 @@
 Heroku Buildpack for create-react-app
 =====================================
+  
+  Heroku で実行：
 
+1. [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/jadegreatking/dreamhousejp-web-app)
+2. アプリを確認します。
+  
 Deploy React.js web apps generated with [create-react-app](https://github.com/facebook/create-react-app). Automates deployment with the built-in bundler and serves it up via [Nginx](http://nginx.org/en/). See the [introductory blog post](https://blog.heroku.com/deploying-react-with-zero-configuration) and entry in [Heroku elements](https://elements.heroku.com/buildpacks/mars/create-react-app-buildpack).
 
 * 🚦 [Purpose](#user-content-purpose)
